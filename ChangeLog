@@ -1,0 +1,15 @@
+2012-12-21 Pavle Simovic <xpio at tesla.rcub.bg.ac dot rs>
+
+	* 1.0-3
+	moved licenses to /usr/share/licenses instead of doc
+	fixed permissions of desktop and icon files
+	different launcher
+
+2012-12-20 Pavle Simovic <xpio at tesla.rcub.bg.ac dot rs>
+
+	* 1.0-2 :
+	added ChangeLog.
+	added run script to enable per-user configuration
+	fixed stripping errors by removing alien libs
+        fixed icon and .desktop file, uses gendesk now
+	changed description to one given by creators 
